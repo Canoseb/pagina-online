@@ -89,8 +89,6 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             alert('Procediendo al pago...');
-            // Aquí puedes redirigir a la página de pago si es necesario:
-            // window.location.href = 'pagina_de_pago.html';
         });
     }
 
